@@ -17,11 +17,11 @@ A modern React application that visualizes **train stations across Germany** on 
 
 ## 🛠️ Tech Stack
 
-- **React 18** – UI library  
-- **TypeScript** – Static typing  
-- **Leaflet.js** – Interactive maps  
-- **React-Leaflet** – Leaflet bindings for React  
-- **Tailwind CSS** – Utility-first styling  
-- **Vite** – Fast build tool  
-- **Vitest** – Unit testing  
-- **Lucide React** – Icon library
+- **React 18** - UI library  
+- **TypeScript** - Static typing  
+- **Leaflet.js** - Interactive maps  
+- **React Leaflet** - Leaflet bindings for React  
+- **Tailwind CSS** - Utility-first styling  
+- **Vite** - Fast build tool  
+- **Vitest** - Unit testing  
+- **Lucide React** - Icon library
